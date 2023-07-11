@@ -1,907 +1,907 @@
 [
     {
       "name": "US Dollar",
-      "description": "$ / USD",
+      "description": "USD",
       "href": "#",
       "value": "USD"
     },
     {
       "name": "Canadian Dollar",
-      "description": "$ / CAD",
+      "description": "CAD",
       "href": "#",
       "value": "CAD"
     },
     {
       "name": "Euro",
-      "description": "€ / EUR",
+      "description": "EUR",
       "href": "#",
       "value": "EUR"
     },
     {
       "name": "United Arab Emirates Dirham",
-      "description": "د.إ.‏ / AED",
+      "description": "AED",
       "href": "#",
       "value": "AED"
     },
     {
       "name": "Afghan Afghani",
-      "description": "؋ / AFN",
+      "description": "AFN",
       "href": "#",
       "value": "AFN"
     },
     {
       "name": "Albanian Lek",
-      "description": "Lek / ALL",
+      "description": "ALL",
       "href": "#",
       "value": "ALL"
     },
     {
       "name": "Armenian Dram",
-      "description": "դր. / AMD",
+      "description": "AMD",
       "href": "#",
       "value": "AMD"
     },
     {
       "name": "Argentine Peso",
-      "description": "$ / ARS",
+      "description": "ARS",
       "href": "#",
       "value": "ARS"
     },
     {
       "name": "Australian Dollar",
-      "description": "$ / AUD",
+      "description": "AUD",
       "href": "#",
       "value": "AUD"
     },
     {
       "name": "Azerbaijani Manat",
-      "description": "ман. / AZN",
+      "description": "AZN",
       "href": "#",
       "value": "AZN"
     },
     {
       "name": "Bosnia-Herzegovina Convertible Mark",
-      "description": "KM / BAM",
+      "description": "BAM",
       "href": "#",
       "value": "BAM"
     },
     {
       "name": "Bangladeshi Taka",
-      "description": "৳ / BDT",
+      "description": "BDT",
       "href": "#",
       "value": "BDT"
     },
     {
       "name": "Bulgarian Lev",
-      "description": "лв. / BGN",
+      "description": "BGN",
       "href": "#",
       "value": "BGN"
     },
     {
       "name": "Bahraini Dinar",
-      "description": "د.ب.‏ / BHD",
+      "description": "BHD",
       "href": "#",
       "value": "BHD"
     },
     {
       "name": "Burundian Franc",
-      "description": "FBu / BIF",
+      "description": "BIF",
       "href": "#",
       "value": "BIF"
     },
     {
       "name": "Brunei Dollar",
-      "description": "$ / BND",
+      "description": "BND",
       "href": "#",
       "value": "BND"
     },
     {
       "name": "Bolivian Boliviano",
-      "description": "Bs / BOB",
+      "description": "BOB",
       "href": "#",
       "value": "BOB"
     },
     {
       "name": "Brazilian Real",
-      "description": "R$ / BRL",
+      "description": "BRL",
       "href": "#",
       "value": "BRL"
     },
     {
       "name": "Botswanan Pula",
-      "description": "P / BWP",
+      "description": "BWP",
       "href": "#",
       "value": "BWP"
     },
     {
       "name": "Belarusian Ruble",
-      "description": "руб. / BYN",
+      "description": "BYN",
       "href": "#",
       "value": "BYN"
     },
     {
       "name": "Belize Dollar",
-      "description": "$ / BZD",
+      "description": "BZD",
       "href": "#",
       "value": "BZD"
     },
     {
       "name": "Congolese Franc",
-      "description": "FrCD / CDF",
+      "description": "CDF",
       "href": "#",
       "value": "CDF"
     },
     {
       "name": "Swiss Franc",
-      "description": "CHF / CHF",
+      "description": "CHF",
       "href": "#",
       "value": "CHF"
     },
     {
       "name": "Chilean Peso",
-      "description": "$ / CLP",
+      "description": "CLP",
       "href": "#",
       "value": "CLP"
     },
     {
       "name": "Chinese Yuan",
-      "description": "CN¥ / CNY",
+      "description": "CNY",
       "href": "#",
       "value": "CNY"
     },
     {
       "name": "Colombian Peso",
-      "description": "$ / COP",
+      "description": "COP",
       "href": "#",
       "value": "COP"
     },
     {
       "name": "Costa Rican Colón",
-      "description": "₡ / CRC",
+      "description": "CRC",
       "href": "#",
       "value": "CRC"
     },
     {
       "name": "Cape Verdean Escudo",
-      "description": "CV$ / CVE",
+      "description": "CVE",
       "href": "#",
       "value": "CVE"
     },
     {
       "name": "Czech Republic Koruna",
-      "description": "Kč / CZK",
+      "description": "CZK",
       "href": "#",
       "value": "CZK"
     },
     {
       "name": "Djiboutian Franc",
-      "description": "Fdj / DJF",
+      "description": "DJF",
       "href": "#",
       "value": "DJF"
     },
     {
       "name": "Danish Krone",
-      "description": "kr / DKK",
+      "description": "DKK",
       "href": "#",
       "value": "DKK"
     },
     {
       "name": "Dominican Peso",
-      "description": "RD$ / DOP",
+      "description": "DOP",
       "href": "#",
       "value": "DOP"
     },
     {
       "name": "Algerian Dinar",
-      "description": "د.ج.‏ / DZD",
+      "description": "DZD",
       "href": "#",
       "value": "DZD"
     },
     {
       "name": "Estonian Kroon",
-      "description": "kr / EEK",
+      "description": "EEK",
       "href": "#",
       "value": "EEK"
     },
     {
       "name": "Egyptian Pound",
-      "description": "ج.م.‏ / EGP",
+      "description": "EGP",
       "href": "#",
       "value": "EGP"
     },
     {
       "name": "Eritrean Nakfa",
-      "description": "Nfk / ERN",
+      "description": "ERN",
       "href": "#",
       "value": "ERN"
     },
     {
       "name": "Ethiopian Birr",
-      "description": "Br / ETB",
+      "description": "ETB",
       "href": "#",
       "value": "ETB"
     },
     {
       "name": "British Pound Sterling",
-      "description": "£ / GBP",
+      "description": "GBP",
       "href": "#",
       "value": "GBP"
     },
     {
       "name": "Georgian Lari",
-      "description": "GEL / GEL",
+      "description": "GEL",
       "href": "#",
       "value": "GEL"
     },
     {
       "name": "Ghanaian Cedi",
-      "description": "GH₵ / GHS",
+      "description": "GHS",
       "href": "#",
       "value": "GHS"
     },
     {
       "name": "Guinean Franc",
-      "description": "FG / GNF",
+      "description": "GNF",
       "href": "#",
       "value": "GNF"
     },
     {
       "name": "Guatemalan Quetzal",
-      "description": "Q / GTQ",
+      "description": "GTQ",
       "href": "#",
       "value": "GTQ"
     },
     {
       "name": "Hong Kong Dollar",
-      "description": "$ / HKD",
+      "description": "HKD",
       "href": "#",
       "value": "HKD"
     },
     {
       "name": "Honduran Lempira",
-      "description": "L / HNL",
+      "description": "HNL",
       "href": "#",
       "value": "HNL"
     },
     {
       "name": "Croatian Kuna",
-      "description": "kn / HRK",
+      "description": "HRK",
       "href": "#",
       "value": "HRK"
     },
     {
       "name": "Hungarian Forint",
-      "description": "Ft / HUF",
+      "description": "HUF",
       "href": "#",
       "value": "HUF"
     },
     {
       "name": "Indonesian Rupiah",
-      "description": "Rp / IDR",
+      "description": "IDR",
       "href": "#",
       "value": "IDR"
     },
     {
       "name": "Israeli New Sheqel",
-      "description": "₪ / ILS",
+      "description": "ILS",
       "href": "#",
       "value": "ILS"
     },
     {
       "name": "Indian Rupee",
-      "description": "টকা / INR",
+      "description": "INR",
       "href": "#",
       "value": "INR"
     },
     {
       "name": "Iraqi Dinar",
-      "description": "د.ع.‏ / IQD",
+      "description": "IQD",
       "href": "#",
       "value": "IQD"
     },
     {
       "name": "Iranian Rial",
-      "description": "﷼ / IRR",
+      "description": "IRR",
       "href": "#",
       "value": "IRR"
     },
     {
       "name": "Icelandic Króna",
-      "description": "kr / ISK",
+      "description": "ISK",
       "href": "#",
       "value": "ISK"
     },
     {
       "name": "Jamaican Dollar",
-      "description": "$ / JMD",
+      "description": "JMD",
       "href": "#",
       "value": "JMD"
     },
     {
       "name": "Jordanian Dinar",
-      "description": "د.أ.‏ / JOD",
+      "description": "JOD",
       "href": "#",
       "value": "JOD"
     },
     {
       "name": "Japanese Yen",
-      "description": "￥ / JPY",
+      "description": "JPY",
       "href": "#",
       "value": "JPY"
     },
     {
       "name": "Kenyan Shilling",
-      "description": "Ksh / KES",
+      "description": "KES",
       "href": "#",
       "value": "KES"
     },
     {
       "name": "Cambodian Riel",
-      "description": "៛ / KHR",
+      "description": "KHR",
       "href": "#",
       "value": "KHR"
     },
     {
       "name": "Comorian Franc",
-      "description": "FC / KMF",
+      "description": "KMF",
       "href": "#",
       "value": "KMF"
     },
     {
       "name": "South Korean Won",
-      "description": "₩ / KRW",
+      "description": "KRW",
       "href": "#",
       "value": "KRW"
     },
     {
       "name": "Kuwaiti Dinar",
-      "description": "د.ك.‏ / KWD",
+      "description": "KWD",
       "href": "#",
       "value": "KWD"
     },
     {
       "name": "Kazakhstani Tenge",
-      "description": "тңг. / KZT",
+      "description": "KZT",
       "href": "#",
       "value": "KZT"
     },
     {
       "name": "Lebanese Pound",
-      "description": "ل.ل.‏ / LBP",
+      "description": "LBP",
       "href": "#",
       "value": "LBP"
     },
     {
       "name": "Sri Lankan Rupee",
-      "description": "SL Re / LKR",
+      "description": "LKR",
       "href": "#",
       "value": "LKR"
     },
     {
       "name": "Lithuanian Litas",
-      "description": "Lt / LTL",
+      "description": "LTL",
       "href": "#",
       "value": "LTL"
     },
     {
       "name": "Latvian Lats",
-      "description": "Ls / LVL",
+      "description": "LVL",
       "href": "#",
       "value": "LVL"
     },
     {
       "name": "Libyan Dinar",
-      "description": "د.ل.‏ / LYD",
+      "description": "LYD",
       "href": "#",
       "value": "LYD"
     },
     {
       "name": "Moroccan Dirham",
-      "description": "د.م.‏ / MAD",
+      "description": "MAD",
       "href": "#",
       "value": "MAD"
     },
     {
       "name": "Moldovan Leu",
-      "description": "MDL / MDL",
+      "description": "MDL",
       "href": "#",
       "value": "MDL"
     },
     {
       "name": "Malagasy Ariary",
-      "description": "MGA / MGA",
+      "description": "MGA",
       "href": "#",
       "value": "MGA"
     },
     {
       "name": "Macedonian Denar",
-      "description": "MKD / MKD",
+      "description": "MKD",
       "href": "#",
       "value": "MKD"
     },
     {
       "name": "Myanma Kyat",
-      "description": "K / MMK",
+      "description": "MMK",
       "href": "#",
       "value": "MMK"
     },
     {
       "name": "Macanese Pataca",
-      "description": "MOP$ / MOP",
+      "description": "MOP",
       "href": "#",
       "value": "MOP"
     },
     {
       "name": "Mauritian Rupee",
-      "description": "MURs / MUR",
+      "description": "MUR",
       "href": "#",
       "value": "MUR"
     },
     {
       "name": "Mexican Peso",
-      "description": "$ / MXN",
+      "description": "MXN",
       "href": "#",
       "value": "MXN"
     },
     {
       "name": "Malaysian Ringgit",
-      "description": "RM / MYR",
+      "description": "MYR",
       "href": "#",
       "value": "MYR"
     },
     {
       "name": "Mozambican Metical",
-      "description": "MTn / MZN",
+      "description": "MZN",
       "href": "#",
       "value": "MZN"
     },
     {
       "name": "Namibian Dollar",
-      "description": "N$ / NAD",
+      "description": "NAD",
       "href": "#",
       "value": "NAD"
     },
     {
       "name": "Nigerian Naira",
-      "description": "₦ / NGN",
+      "description": "NGN",
       "href": "#",
       "value": "NGN"
     },
     {
       "name": "Nicaraguan Córdoba",
-      "description": "C$ / NIO",
+      "description": "NIO",
       "href": "#",
       "value": "NIO"
     },
     {
       "name": "Norwegian Krone",
-      "description": "kr / NOK",
+      "description": "NOK",
       "href": "#",
       "value": "NOK"
     },
     {
       "name": "Nepalese Rupee",
-      "description": "नेरू / NPR",
+      "description": "NPR",
       "href": "#",
       "value": "NPR"
     },
     {
       "name": "New Zealand Dollar",
-      "description": "$ / NZD",
+      "description": "NZD",
       "href": "#",
       "value": "NZD"
     },
     {
       "name": "Omani Rial",
-      "description": "ر.ع.‏ / OMR",
+      "description": "OMR",
       "href": "#",
       "value": "OMR"
     },
     {
       "name": "Panamanian Balboa",
-      "description": "B/. / PAB",
+      "description": "PAB",
       "href": "#",
       "value": "PAB"
     },
     {
       "name": "Peruvian Nuevo Sol",
-      "description": "S/. / PEN",
+      "description": "PEN",
       "href": "#",
       "value": "PEN"
     },
     {
       "name": "Philippine Peso",
-      "description": "₱ / PHP",
+      "description": "PHP",
       "href": "#",
       "value": "PHP"
     },
     {
       "name": "Pakistani Rupee",
-      "description": "₨ / PKR",
+      "description": "PKR",
       "href": "#",
       "value": "PKR"
     },
     {
       "name": "Polish Zloty",
-      "description": "zł / PLN",
+      "description": "PLN",
       "href": "#",
       "value": "PLN"
     },
     {
       "name": "Paraguayan Guarani",
-      "description": "₲ / PYG",
+      "description": "PYG",
       "href": "#",
       "value": "PYG"
     },
     {
       "name": "Qatari Rial",
-      "description": "ر.ق.‏ / QAR",
+      "description": "QAR",
       "href": "#",
       "value": "QAR"
     },
     {
       "name": "Romanian Leu",
-      "description": "RON / RON",
+      "description": "RON",
       "href": "#",
       "value": "RON"
     },
     {
       "name": "Serbian Dinar",
-      "description": "дин. / RSD",
+      "description": "RSD",
       "href": "#",
       "value": "RSD"
     },
     {
       "name": "Russian Ruble",
-      "description": "₽. / RUB",
+      "description": "RUB",
       "href": "#",
       "value": "RUB"
     },
     {
       "name": "Rwandan Franc",
-      "description": "FR / RWF",
+      "description": "RWF",
       "href": "#",
       "value": "RWF"
     },
     {
       "name": "Saudi Riyal",
-      "description": "ر.س.‏ / SAR",
+      "description": "SAR",
       "href": "#",
       "value": "SAR"
     },
     {
       "name": "Sudanese Pound",
-      "description": "SDG / SDG",
+      "description": "SDG",
       "href": "#",
       "value": "SDG"
     },
     {
       "name": "Swedish Krona",
-      "description": "kr / SEK",
+      "description": "SEK",
       "href": "#",
       "value": "SEK"
     },
     {
       "name": "Singapore Dollar",
-      "description": "$ / SGD",
+      "description": "SGD",
       "href": "#",
       "value": "SGD"
     },
     {
       "name": "Somali Shilling",
-      "description": "Ssh / SOS",
+      "description": "SOS",
       "href": "#",
       "value": "SOS"
     },
     {
       "name": "Syrian Pound",
-      "description": "ل.س.‏ / SYP",
+      "description": "SYP",
       "href": "#",
       "value": "SYP"
     },
     {
       "name": "Thai Baht",
-      "description": "฿ / THB",
+      "description": "THB",
       "href": "#",
       "value": "THB"
     },
     {
       "name": "Tunisian Dinar",
-      "description": "د.ت.‏ / TND",
+      "description": "TND",
       "href": "#",
       "value": "TND"
     },
     {
       "name": "Tongan Paʻanga",
-      "description": "T$ / TOP",
+      "description": "TOP",
       "href": "#",
       "value": "TOP"
     },
     {
       "name": "Turkish Lira",
-      "description": "TL / TRY",
+      "description": "TRY",
       "href": "#",
       "value": "TRY"
     },
     {
       "name": "Trinidad and Tobago Dollar",
-      "description": "$ / TTD",
+      "description": "TTD",
       "href": "#",
       "value": "TTD"
     },
     {
       "name": "New Taiwan Dollar",
-      "description": "NT$ / TWD",
+      "description": "TWD",
       "href": "#",
       "value": "TWD"
     },
     {
       "name": "Tanzanian Shilling",
-      "description": "TSh / TZS",
+      "description": "TZS",
       "href": "#",
       "value": "TZS"
     },
     {
       "name": "Ukrainian Hryvnia",
-      "description": "₴ / UAH",
+      "description": "UAH",
       "href": "#",
       "value": "UAH"
     },
     {
       "name": "Ugandan Shilling",
-      "description": "USh / UGX",
+      "description": "UGX",
       "href": "#",
       "value": "UGX"
     },
     {
       "name": "Uruguayan Peso",
-      "description": "$ / UYU",
+      "description": "UYU",
       "href": "#",
       "value": "UYU"
     },
     {
       "name": "Uzbekistan Som",
-      "description": "UZS / UZS",
+      "description": "UZS",
       "href": "#",
       "value": "UZS"
     },
     {
       "name": "Venezuelan Bolívar",
-      "description": "Bs.F. / VEF",
+      "description": "VEF",
       "href": "#",
       "value": "VEF"
     },
     {
       "name": "Vietnamese Dong",
-      "description": "₫ / VND",
+      "description": "VND",
       "href": "#",
       "value": "VND"
     },
     {
       "name": "CFA Franc BEAC",
-      "description": "FCFA / XAF",
+      "description": "XAF",
       "href": "#",
       "value": "XAF"
     },
     {
       "name": "CFA Franc BCEAO",
-      "description": "CFA / XOF",
+      "description": "XOF",
       "href": "#",
       "value": "XOF"
     },
     {
       "name": "Yemeni Rial",
-      "description": "ر.ي.‏ / YER",
+      "description": "YER",
       "href": "#",
       "value": "YER"
     },
     {
       "name": "South African Rand",
-      "description": "R / ZAR",
+      "description": "ZAR",
       "href": "#",
       "value": "ZAR"
     },
     {
       "name": "Zambian Kwacha",
-      "description": "ZK / ZMK",
+      "description": "ZMK",
       "href": "#",
       "value": "ZMK"
     },
     {
       "name": "Zimbabwean Dollar",
-      "description": "ZWL$ / ZWL",
+      "description": "ZWL",
       "href": "#",
       "value": "ZWL"
     },
     {
       "name": "Netherlands Antillean Guilder",
-      "description": "ƒ / ANG",
+      "description": "ANG",
       "href": "#",
       "value": "ANG"
     },
     {
       "name": "Angolan Kwanza",
-      "description": "Kz / AOA",
+      "description": "AOA",
       "href": "#",
       "value": "AOA"
     },
     {
       "name": "Aruban Florin",
-      "description": "ƒ / AWG",
+      "description": "AWG",
       "href": "#",
       "value": "AWG"
     },
     {
       "name": "Barbadian Dollar",
-      "description": "$ / BBD",
+      "description": "BBD",
       "href": "#",
       "value": "BBD"
     },
     {
       "name": "Bermudan Dollar",
-      "description": "$ / BMD",
+      "description": "BMD",
       "href": "#",
       "value": "BMD"
     },
     {
       "name": "Bahamian Dollar",
-      "description": "$ / BSD",
+      "description": "BSD",
       "href": "#",
       "value": "BSD"
     },
     {
       "name": "Bitcoin",
-      "description": "฿ / BTC",
+      "description": "BTC",
       "href": "#",
       "value": "BTC"
     },
     {
       "name": "Bhutanese Ngultrum",
-      "description": "Nu. / BTN",
+      "description": "BTN",
       "href": "#",
       "value": "BTN"
     },
     {
       "name": "Belarusian Ruble",
-      "description": "Br / BYR",
+      "description": "BYR",
       "href": "#",
       "value": "BYR"
     },
     {
       "name": "Chilean Unit of Account (UF)",
-      "description": "$CLF / CLF",
+      "description": "CLF",
       "href": "#",
       "value": "CLF"
     },
     {
       "name": "Cuban Convertible Peso",
-      "description": "$ / CUC",
+      "description": "CUC",
       "href": "#",
       "value": "CUC"
     },
     {
       "name": "Cuban Peso",
-      "description": "₱ / CUP",
+      "description": "CUP",
       "href": "#",
       "value": "CUP"
     },
     {
       "name": "Fijian Dollar",
-      "description": "$ / FJD",
+      "description": "FJD",
       "href": "#",
       "value": "FJD"
     },
     {
       "name": "Falkland Islands Pound",
-      "description": "£ / FKP",
+      "description": "FKP",
       "href": "#",
       "value": "FKP"
     },
     {
       "name": "Guernsey Pound",
-      "description": "&pound; / GGP",
+      "description": "GGP",
       "href": "#",
       "value": "GGP"
     },
     {
       "name": "Gambian Dalasi",
-      "description": "D / GMD",
+      "description": "GMD",
       "href": "#",
       "value": "GMD"
     },
     {
       "name": "Guyanaese Dollar",
-      "description": "$ / GYD",
+      "description": "GYD",
       "href": "#",
       "value": "GYD"
     },
     {
       "name": "Haitian Gourde",
-      "description": "G / HTG",
+      "description": "HTG",
       "href": "#",
       "value": "HTG"
     },
     {
       "name": "Manx pound",
-      "description": "&pound; / IMP",
+      "description": "IMP",
       "href": "#",
       "value": "IMP"
     },
     {
       "name": "Jersey Pound",
-      "description": "&pound; / JEP",
+      "description": "JEP",
       "href": "#",
       "value": "JEP"
     },
     {
       "name": "Kyrgyzstani Som",
-      "description": "&#x43B;&#x432; / KGS",
+      "description": "KGS",
       "href": "#",
       "value": "KGS"
     },
     {
       "name": "North Korean Won",
-      "description": "&#x20A9; / KPW",
+      "description": "KPW",
       "href": "#",
       "value": "KPW"
     },
     {
       "name": "Cayman Islands Dollar",
-      "description": "$ / KYD",
+      "description": "KYD",
       "href": "#",
       "value": "KYD"
     },
     {
       "name": "Lao Kip",
-      "description": "&#8365; / LAK",
+      "description": "LAK",
       "href": "#",
       "value": "LAK"
     },
     {
       "name": "Liberian Dollar",
-      "description": "$ / LRD",
+      "description": "LRD",
       "href": "#",
       "value": "LRD"
     },
     {
       "name": "Lesotho Loti",
-      "description": "L / LSL",
+      "description": "LSL",
       "href": "#",
       "value": "LSL"
     },
     {
       "name": "Mongolian Tugrik",
-      "description": "&#x20AE; / MNT",
+      "description": "MNT",
       "href": "#",
       "value": "MNT"
     },
     {
       "name": "Mauritanian Ouguiya",
-      "description": "UM / MRO",
+      "description": "MRO",
       "href": "#",
       "value": "MRO"
     },
     {
       "name": "Maldives Rufiyaa",
-      "description": ".ރ. / MVR",
+      "description": "MVR",
       "href": "#",
       "value": "MVR"
     },
     {
       "name": "Malawian Kwacha",
-      "description": "MK / MWK",
+      "description": "MWK",
       "href": "#",
       "value": "MWK"
     },
     {
       "name": "Papua New Guinean Kina",
-      "description": "K / PGK",
+      "description": "PGK",
       "href": "#",
       "value": "PGK"
     },
     {
       "name": "Solomon Islands Dollar",
-      "description": "$ / SBD",
+      "description": "SBD",
       "href": "#",
       "value": "SBD"
     },
@@ -1019,4 +1019,4 @@
       "href": "#",
       "value": "ZMW"
     }
-  ]
+]
